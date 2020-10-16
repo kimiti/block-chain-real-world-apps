@@ -2,12 +2,12 @@
 
 implementation of real world block-chain apps
 
-## auction-solidity app
+## Lottery Smart Contract - solidity
 
-## cryptos-fully-compliant-erc20-token app
+## Auction Smart Contract - solidity
 
-## fundraising-solidity app
+## FundRaising Smart Contract - solidity
 
-## ico-solidity app
+## Implementing an ERC20 Token - solidity
 
-## lottery-solidity app
+## Implement and run an Initial Coin Offering (ICO) - solidity
