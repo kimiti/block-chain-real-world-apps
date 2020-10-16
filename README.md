@@ -2,12 +2,12 @@
 
 implementation of real world block-chain apps
 
-# auction app
+## auction-solidity app
 
-# cryptos-fully-compliant-erc20-token app
+## cryptos-fully-compliant-erc20-token app
 
-# fundraising-solidity app
+## fundraising-solidity app
 
-# ico-solidity app
+## ico-solidity app
 
-# lottery-solidity app
+## lottery-solidity app
